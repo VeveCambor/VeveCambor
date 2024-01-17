@@ -1,9 +1,3 @@
-
-![febg](https://github.com/VeveCambor/VeveCambor/assets/121693001/d4016536-048f-4e37-bbc4-eb43c5228b87)
-
-
-
-
 <h1 align="center">Hi 👋, I'm Veva</h1>
 
 <h3 align="center">I'm a frontend developer at heart, but in my work it sometimes takes me into backend waters. <br> In my work, I mainly focus on web applications for the automotive industry.  <br> In my spare time I continue to learn React, build smaller projects, design websites and do drawing classes.</h3>
