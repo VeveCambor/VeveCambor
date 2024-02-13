@@ -2,7 +2,8 @@
 
 <h3 align="center">I'm a frontend developer at heart, but in my work it sometimes takes me into backend waters. <br> In my work, I mainly focus on web applications for the automotive industry.  <br> In my spare time I continue to learn React, build smaller projects, design websites and do drawing classes.</h3>
 
-<h4 align="center"><a href="https://linkedin.com/in/veronika-čamborová" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronika čamborová" height="20" width="30" /></a> <a href="https://instagram.com/wewa.designandncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wewa.designandncode" height="30" width="40" /></a></h4>
+<h4 align="center">Connect with me:</h4>
+<h4 align="center"><a href="https://linkedin.com/in/veronika-čamborová" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronika čamborová" height="20" width="30" /></a></h4>
 
 
 ***
