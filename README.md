@@ -6,16 +6,6 @@
 <h4 align="center"><a href="https://linkedin.com/in/veronika-čamborová" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronika čamborová" height="20" width="30" /></a></h4>
 
 
-***
-
-- 📖I'm learning **React** with Josh in his course [Joy of React](https://www.joyofreact.com/)
-
-- 🚀 Future plans: <br>
-
-     🎯 Finish the course Joy of React <br>
-     🎯 Improve my projects and create a few more. 👊
-***
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="padding-right:10px/> </a>
