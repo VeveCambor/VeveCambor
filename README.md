@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veva</h1>
 
-<h3 align="center">I'm a frontend developer at heart, but in my work it sometimes takes me into backend waters. <br> In my work, I mainly focus on web applications for the automotive industry.  <br> In my spare time I continue to learn React, build smaller projects, design websites and do drawing classes.</h3>
+<h3 align="center">II started out as a front-end developer, but these days I would describe my role as a software developer. I still focus primarily on the front-end aspects of the project—design and development—but making changes to the back end is no longer the exception. <br> In my work, I mainly focus on web applications for the automotive and another industry.<br> In my spare time I continue to learn SW stack, build smaller projects, design websites and do drawing classes.</h3>
 
 <h4 align="center">Connect with me:</h4>
 <h4 align="center"><a href="https://linkedin.com/in/veronika-čamborová" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronika čamborová" height="20" width="30" /></a></h4>
